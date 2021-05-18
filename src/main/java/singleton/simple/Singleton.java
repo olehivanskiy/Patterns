@@ -1,7 +1,6 @@
 package main.java.singleton.simple;
 
 public class Singleton {
-
     private static Singleton instance;
     public Object object;
 
