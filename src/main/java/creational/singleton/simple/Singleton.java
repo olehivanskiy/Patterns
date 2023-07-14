@@ -1,4 +1,4 @@
-package main.java.singleton.simple;
+package main.java.creational.singleton.simple;
 
 public class Singleton {
     private static Singleton instance;

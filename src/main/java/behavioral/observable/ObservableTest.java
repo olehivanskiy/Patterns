@@ -1,8 +1,8 @@
-package main.java.observable;
+package main.java.behavioral.observable;
 
-import main.java.observable.editor.Editor;
-import main.java.observable.listeners.EmailNotificationListener;
-import main.java.observable.listeners.LogOpenListener;
+import main.java.behavioral.observable.editor.Editor;
+import main.java.behavioral.observable.listeners.EmailNotificationListener;
+import main.java.behavioral.observable.listeners.LogOpenListener;
 
 public class ObservableTest {
     public static void main(String[] args) {

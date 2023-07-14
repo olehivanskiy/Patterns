@@ -1,6 +1,6 @@
-package main.java.observable.editor;
+package main.java.behavioral.observable.editor;
 
-import main.java.observable.publisher.EventManager;
+import main.java.behavioral.observable.publisher.EventManager;
 import java.io.File;
 
 public class Editor {

@@ -1,4 +1,4 @@
-package main.java.singleton.simple;
+package main.java.creational.singleton.simple;
 
 import java.util.Objects;
 

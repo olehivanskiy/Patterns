@@ -1,4 +1,4 @@
-package main.java.singleton.simple;
+package main.java.creational.singleton.simple;
 
 public class TestSimpleSingleton {
     public static void main(String[] args) {

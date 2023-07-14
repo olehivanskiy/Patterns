@@ -1,4 +1,4 @@
-package main.java.observable.listeners;
+package main.java.behavioral.observable.listeners;
 
 import java.io.File;
 

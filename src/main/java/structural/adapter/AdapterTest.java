@@ -1,4 +1,4 @@
-package main.java.adapter;
+package main.java.structural.adapter;
 
 public class AdapterTest {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package main.java.adapter;
+package main.java.structural.adapter;
 
 public class InchAdapter extends Inch {
     private Meter meter;

@@ -1,6 +1,6 @@
-package main.java.observable.publisher;
+package main.java.behavioral.observable.publisher;
 
-import main.java.observable.listeners.EventListener;
+import main.java.behavioral.observable.listeners.EventListener;
 import java.io.File;
 import java.util.ArrayList;
 import java.util.HashMap;

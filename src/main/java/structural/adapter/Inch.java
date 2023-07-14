@@ -1,9 +1,12 @@
-package main.java.adapter;
+package main.java.structural.adapter;
 
-public class Meter {
+public class Inch {
     private double value;
 
-    public Meter(double value) {
+    public Inch() {
+    }
+
+    public Inch(double value) {
         this.value = value;
     }
 
